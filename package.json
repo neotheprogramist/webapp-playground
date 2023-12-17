@@ -43,6 +43,10 @@
     "vite-tsconfig-paths": "^4.2.1"
   },
   "dependencies": {
-    "@web3modal/ethers5": "^3.4.0"
+    "@wagmi/core": "^1.4.12",
+    "@web3modal/ethers5": "^3.4.0",
+    "@web3modal/wagmi": "^3.5.0",
+    "viem": "^1.20.1",
+    "wagmi": "^1.4.12"
   }
 }

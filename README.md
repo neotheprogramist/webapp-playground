@@ -12,13 +12,12 @@
 
 Remember to provide correct environment variables in the `.env.local`.
 
-PS. Only for code-review purposes I'm putting my _**Wallet connect project id**_ and my _**Sepolia api key**_ here so you can easily test the project without providing your own keys.
+PS. Only for code-review purposes I'm putting my _**Wallet connect project id**_ here so you can easily test the project without providing your own keys.
 
 ```shell
 # .env.local
 
 PUBLIC_WC_PROJECT_ID=af42aa2fe43517cd11d0a2ee24eaa18b
-PUBLIC_SEPOLIA_API_KEY=xrYdj4-Fx_32Aab0X_MGboXnxHB4WWNs
 ```
 
 ## Project Structure
